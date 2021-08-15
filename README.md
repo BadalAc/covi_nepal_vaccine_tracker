@@ -1,16 +1,10 @@
 # covi_nepal
 
 A new Flutter project.
+Covid tacker using API from apicovid19.
 
-## Getting Started
+![covi19](https://user-images.githubusercontent.com/57612587/129471573-5e518895-538a-4fb8-96dc-2cec06fe14f4.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nirmal AC 
+Email: nirmal99.ba@gmail.com
