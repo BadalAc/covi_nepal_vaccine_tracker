@@ -49,6 +49,12 @@ class _CountryState extends State<Country> {
     return FutureBuilder(
       future: countryList,
       builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.done) {
+          if (snapshot.hasError)
+            return Center(
+              child: Text("Error ${snapshot.error}"),
+            );
+        }
         if (snapshot.hasError)
           return Center(
             child: Text("Error"),

@@ -182,7 +182,7 @@ class _VaccinesLocationState extends State<VaccinesLocation> {
                           child: Padding(
                             padding: const EdgeInsets.all(6.0),
                             child: Text(
-                              'समय : 10 Am - ४ Pm',
+                              'समय : 10 AM - 4 PM',
                               style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 10,
